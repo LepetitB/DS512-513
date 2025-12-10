@@ -126,8 +126,9 @@ Guests who book far in advance tend to cancel more frequently.
 ---
 **5. ADR (Average Daily Rate) vs Cancellation**
 
-Visualization: Bar chart showing average ADR for each cancellation group
-Boxplot + histogram for ADR distribution
+Visualization: 
+1. Bar chart showing average ADR for each cancellation group
+2. Boxplot + histogram for ADR distribution
 
 ![ADR_cancel](https://github.com/user-attachments/assets/84dbebb9-853b-46c4-86ba-0b7d0f33f61e)
 
@@ -158,7 +159,7 @@ Cancellation rates rise as week-night stays increase. Long-stay bookings show th
 ---
 **7. Total Guests vs Cancellation**
 
-Visualization:Boxplot showing total guests vs cancellation and Histogram for group size distribution
+Visualization: Boxplot showing total guests vs cancellation and Histogram for group size distribution
 
 ![Total guest](https://github.com/user-attachments/assets/ca33a7c5-d747-4421-bdb1-e527891a252c)
 
