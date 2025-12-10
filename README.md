@@ -47,7 +47,7 @@ With data-driven strategies informed by the cancellation model, the hotel is exp
 - Adjust column types to appropriate dtypes (e.g., dates, integers, categories).
 - Creating Total Guests (Adult + Children + Babies)
 - Result after cleaning:
-     - **87,110 rows**
+     - **87,108 rows**
      - **30 columns**
 
 ---
