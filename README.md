@@ -157,23 +157,7 @@ Visualization: Boxplot comparing week-night stays and Histogram of stay duration
 Cancellation rates rise as week-night stays increase. Long-stay bookings show the highest cancellation risk, while short stays remain more stable.
 
 ---
-**7. Total Guests vs Cancellation**
-
-Visualization: Boxplot showing total guests vs cancellation and Histogram for group size distribution
-
-![Total guest](https://github.com/user-attachments/assets/ca33a7c5-d747-4421-bdb1-e527891a252c)
-
-
-**Key Findings:**
-1. Most cancellations occur among small groups (1–4 guests).
-2. Very large groups (20–55 guests) appear only in the canceled group → potential data entry errors or high-risk group behavior.
-3. Total guests is a weak predictor, except for extreme outliers.
-
-**Summarize:**
-Total Guests is a weak predictor, except for extreme outliers (large groups), which tend to cancel more frequently.
-
----
-**8. Forecast of Monthly Booking Cancellations**
+**7. Forecast of Monthly Booking Cancellations**
 
 Visualization: Line chart with forecast shading
 - Shows upward trend of cancellations
