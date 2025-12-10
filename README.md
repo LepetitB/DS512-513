@@ -94,16 +94,16 @@ Visualization: Multiple stacked bar charts
 
 Visualization: Pearson correlation table
 
-<img width="510" height="361" alt="Corre" src="https://github.com/user-attachments/assets/615c1ca4-3394-456c-83aa-68bb8dd767fb" />
-
+![Correl](https://github.com/user-attachments/assets/9a90295a-5ae5-4b95-9da7-5fe7f8970c45)
 
 **Key Findings:** 
   Most relevant factors associated with cancellation :
    1. Lead Time
    2. ADR
    3. Stay in week night 
-   4. Total Guests
-      
+
+Arrival Year was excluded from the analysis due to severe data imbalance. Only the year 2016 contains complete and reliable records, while other years have missing or inconsistent data, which may bias the results.
+
 **Summarize:**
 Lead time and ADR are the most influential positive predictors of cancellation in this dataset
 
